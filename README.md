@@ -20,15 +20,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=MADHAVAN5&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
-
- 
-</details>
-
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
