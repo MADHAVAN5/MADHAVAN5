@@ -24,7 +24,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MADHAVAN5&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=MADHAVAN5&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
  
 </details>
